@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=yearManufactured\ carMake\ carModel
+comment1.target=Car(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n
+comment2.params=
+comment2.target=int\ getYearManufactured()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCarMake()
+comment3.text=\r\n\ @return\ carMake\ is\ the\ make\ of\ the\ car\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCarModel()
+comment4.text=\r\n\ @return\ \ carModel\ for\ the\ model\ of\ car\r\n
+numComments=5
